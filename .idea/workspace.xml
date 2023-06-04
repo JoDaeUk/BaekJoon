@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="140634e5-e41e-4b5d-9ce7-a73e50f1a12a" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Main">
+  <component name="RunManager" selected="애플리케이션.주사위_세개">
     <configuration name="고양이" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="고양이" />
       <module name="BaekJoon" />
@@ -56,8 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="주사위_세개" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="주사위_세개" />
       <module name="BaekJoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,7 +72,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.Main" />
+        <item itemvalue="애플리케이션.주사위_세개" />
         <item itemvalue="애플리케이션.두_수_비교하기" />
         <item itemvalue="애플리케이션.고양이" />
       </list>
@@ -87,7 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1685339341739</updated>
       <workItem from="1685339343069" duration="2371000" />
-      <workItem from="1685602328943" duration="795000" />
+      <workItem from="1685602328943" duration="2582000" />
     </task>
     <task id="LOCAL-00001" summary="고양이">
       <created>1685340474703</created>
@@ -117,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685341110745</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="시험성적">
+      <created>1685603237773</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685603237773</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +132,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="고양이" />
-    <option name="LAST_COMMIT_MESSAGE" value="고양이" />
+    <MESSAGE value="시험성적" />
+    <option name="LAST_COMMIT_MESSAGE" value="시험성적" />
   </component>
 </project>
