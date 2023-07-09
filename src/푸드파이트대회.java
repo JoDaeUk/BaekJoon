@@ -12,20 +12,19 @@ public class 푸드파이트대회 {
     }
 
     static public String solution(int[] food) {
-        String answer = "";
+        StringBuilder answer = new StringBuilder();
         int count = 0;
         for (int i=0; i<food.length; i++){
             while (food[i]/2>count){
-                answer += i;
+                answer.append(i);
                 count++;
             }
             count=0;
         }
-        int len = answer.length();
-        answer += 0;
+        answer.append(0);
         for (int i=answer.length()-2; i>=0; i--){
-            answer += answer.charAt(i);
+            answer.append(answer.charAt(i));
         }
-        return answer;
+        return answer.toString();
     }
 }
